@@ -2,6 +2,8 @@
 
 The main idea of this project is to develop a software / tool, so that immigrants not yet able to apply for jobs can still earn some credits for their work.
 
+**Important note: The project has been halted due to a very similar project going on in China. The [Social Credit System](https://en.wikipedia.org/wiki/Social_Credit_System) isn't what I'd describe as a progressive integration into society. The main issue might be that the power isn't decentralized but rather focussed on indivuals which themselves might not have the best intentions.**
+
 "Work" is defined as "performing a task". A task can be something like 
 
 * Helping out in the kitchen
